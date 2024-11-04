@@ -1,0 +1,70 @@
+[
+  {
+    "product_id": "H001",
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/H001.jpeg",
+    "category": "Headphones",
+    "price": 399,
+    "description": "Sony WH-1000XM5 wireless headphones with industry-leading noise cancellation.",
+    "specification": [
+      "Over-ear design",
+      "30-hour battery life",
+      "Hi-Res Audio support",
+      "Quick attention mode",
+      "Bluetooth 5.2"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "H002",
+    "product_title": "Bose QuietComfort 45",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/H002.jpeg",
+    "category": "Headphones",
+    "price": 329,
+    "description": "Bose QuietComfort 45 with quiet mode and aware mode for customizable sound.",
+    "specification": [
+      "Over-ear design",
+      "24-hour battery life",
+      "Adjustable noise cancellation",
+      "USB-C charging",
+      "Bluetooth 5.1"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "H003",
+    "product_title": "Apple AirPods Max",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/H003.jpeg",
+    "category": "Headphones",
+    "price": 549,
+    "description": "Apple AirPods Max with active noise cancellation and spatial audio.",
+    "specification": [
+      "Over-ear design",
+      "20-hour battery life",
+      "Spatial audio with dynamic head tracking",
+      "Transparency mode",
+      "Bluetooth 5.0"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "H004",
+    "product_title": "iClever BTH19 Cat Ear Bluetooth Headphone",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/H004.jpeg",
+    "category": "Headphones",
+    "price": 59,
+    "description": "iClever BTH19 Cat Ear Bluetooth Headphones with LED lights, safe volume control, and playful design for kids.",
+    "specification": [
+      "Bluetooth 5.0",
+      "LED cat ear lights",
+      "Safe 85dB volume control for kids",
+      "Over-ear design with soft ear cushions",
+      "Rechargeable battery with up to 40 hours of playtime"
+    ],
+    "availability": true,
+    "rating": 4.3
+  }
+]

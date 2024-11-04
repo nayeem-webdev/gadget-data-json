@@ -1,0 +1,53 @@
+[
+  {
+    "product_id": "T001",
+    "product_title": "Samsung Galaxy Tab S9",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/T001.jpeg",
+    "category": "Tablets",
+    "price": 799,
+    "description": "Samsung Galaxy Tab S9 with immersive AMOLED display and powerful S Pen.",
+    "specification": [
+      "11-inch Dynamic AMOLED 2X display",
+      "Qualcomm Snapdragon 8 Gen 2",
+      "8GB RAM, 256GB storage",
+      "Dual-camera system",
+      "SPen support"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "T002",
+    "product_title": "Apple iPad Pro 12.9-inch",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/T002.jpeg",
+    "category": "Tablets",
+    "price": 1099,
+    "description": "Apple iPad Pro with M2 chip and stunning XDR display.",
+    "specification": [
+      "12.9-inch Liquid Retina XDR display",
+      "Apple M2 chip",
+      "Up to 2TB storage",
+      "Support for Apple Pencil 2",
+      "5G capable"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "T003",
+    "product_title": "Microsoft Surface Pro 9",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/T003.jpeg",
+    "category": "Tablets",
+    "price": 999,
+    "description": "Microsoft Surface Pro 9 with versatility of a tablet and power of a laptop.",
+    "specification": [
+      "13-inch PixelSense Flow display",
+      "Intel Core i7-1255U",
+      "16GB RAM, 512GB SSD",
+      "Windows 11 Pro",
+      "Built-in kickstand"
+    ],
+    "availability": true,
+    "rating": 4.7
+  }
+]

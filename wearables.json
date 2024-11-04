@@ -1,0 +1,53 @@
+[
+  {
+    "product_id": "W001",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/W001.jpeg",
+    "category": "Wearables",
+    "price": 399,
+    "description": "Apple Watch Series 9 with advanced health tracking and faster performance.",
+    "specification": [
+      "Always-On Retina display",
+      "Blood oxygen and ECG apps",
+      "S9 processor",
+      "Crash Detection",
+      "18-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "W002",
+    "product_title": "Samsung Galaxy Watch6",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/W002.jpeg",
+    "category": "Wearables",
+    "price": 349,
+    "description": "Samsung Galaxy Watch6 with comprehensive fitness and wellness tracking.",
+    "specification": [
+      "Super AMOLED display",
+      "Sleep tracking",
+      "Samsung BioActive sensor",
+      "5ATM water resistance",
+      "40-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "W003",
+    "product_title": "Garmin Forerunner 265",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/W003.jpeg",
+    "category": "Wearables",
+    "price": 499,
+    "description": "Garmin Forerunner 265 with GPS and extensive training insights.",
+    "specification": [
+      "AMOLED display",
+      "Garmin Pay",
+      "VO2 Max and advanced metrics",
+      "5 ATM water resistance",
+      "Up to 14 days battery life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P001.jpeg",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P002.jpeg",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "The Galaxy S23 Ultra offers a powerful processor and pro-grade camera.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Quad-camera system (200MP Main, 12MP Ultra-wide, 10MP Telephoto)",
+      "5000mAh battery",
+      "Supports S Pen"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P003.jpeg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Google Pixel 8 Pro with advanced AI and Google’s best camera technology.",
+    "specification": [
+      "6.7-inch LTPO OLED display",
+      "Tensor G3 Processor",
+      "Triple-camera setup (50MP Wide, 48MP Telephoto, 12MP Ultra-wide)",
+      "5000mAh battery",
+      "Face unlock and fingerprint unlock"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P004",
+    "product_title": "OnePlus 11 Pro",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P004.jpeg",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "OnePlus 11 Pro with fast performance and flagship features.",
+    "specification": [
+      "6.7-inch QHD+ Fluid AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (50MP Main, 48MP Ultra-wide, 32MP Telephoto)",
+      "5000mAh battery with 100W charging",
+      "Hasselblad camera tuning"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Sony Xperia 1 V",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P005.jpeg",
+    "category": "Smartphones",
+    "price": 1099,
+    "description": "Sony Xperia 1 V with professional camera quality and 4K display.",
+    "specification": [
+      "6.5-inch 4K HDR OLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultra-wide)",
+      "5000mAh battery with 30W fast charging",
+      "360 Reality Audio"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Xiaomi 13 Pro",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P006.jpeg",
+    "category": "Smartphones",
+    "price": 799,
+    "description": "Xiaomi 13 Pro with Leica partnership for superior photography.",
+    "specification": [
+      "6.73-inch LTPO AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (50MP Wide, 50MP Telephoto, 50MP Ultra-wide)",
+      "4820mAh battery with 120W charging",
+      "Leica lens optimization"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]

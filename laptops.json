@@ -1,0 +1,70 @@
+[
+  {
+    "product_id": "L001",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/L001.jpeg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Apple MacBook Air with M2 chip for faster and efficient performance.",
+    "specification": [
+      "13.6-inch Liquid Retina display",
+      "Apple M2 chip",
+      "Up to 24GB unified memory",
+      "18-hour battery life",
+      "Fanless design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "L002",
+    "product_title": "Dell XPS 13 Plus",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/L002.jpeg",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "Dell XPS 13 Plus, a powerful laptop with stunning edge-to-edge display.",
+    "specification": [
+      "13.4-inch InfinityEdge display",
+      "Intel Core i7-1260P",
+      "16GB LPDDR5 RAM",
+      "1TB SSD",
+      "12-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "L003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/L003.jpeg",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "HP Spectre x360 with flexibility and 2-in-1 laptop-tablet design.",
+    "specification": [
+      "13.5-inch OLED touchscreen",
+      "Intel Core i7-1250U",
+      "16GB LPDDR4x RAM",
+      "512GB SSD",
+      "14-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "L004",
+    "product_title": "ASUS ZenBook 14 OLED",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/L004.jpeg",
+    "category": "Laptops",
+    "price": 899,
+    "description": "ASUS ZenBook 14 OLED with vibrant OLED display, powerful performance, and ultra-thin design.",
+    "specification": [
+      "14-inch 2.8K OLED display",
+      "AMD Ryzen 7 5800H processor",
+      "16GB LPDDR4X RAM",
+      "1TB PCIe SSD",
+      "Windows 11 Home"
+    ],
+    "availability": true,
+    "rating": 4.6
+  }
+]
